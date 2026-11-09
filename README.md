@@ -15,3 +15,4 @@ Network automation engineer focused on H3C / Huawei / Cisco fleet operations.
 
 - GitHub Discussions on any of my repos
 - Email: 2945362558@qq.com
+- **[netops-toolkit](https://github.com/BG8CFB/netops-toolkit)** — pip install netops-toolkit · 批量采集/配置检索/合规审计 CLI ([PyPI](https://pypi.org/project/netops-toolkit/))
