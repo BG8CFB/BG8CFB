@@ -2,6 +2,8 @@
 
 Network automation engineer focused on H3C / Huawei / Cisco fleet operations.
 
+> 中文关键词：网络设备配置备份工具 · H3C/华为/思科交换机配置自动备份 · 网络巡检报告 · 命令对照表 · 三厂商命令速查 [命令对照表](https://bg8cfb.github.io/netops-cheatsheets/command-map.html) · [配置备份教程](https://bg8cfb.github.io/netcfg-vault/tutorial.html)
+
 ### 🔧 What I build
 
 - **[netcfg-vault](https://github.com/BG8CFB/netcfg-vault)** — CLI that batch-backs-up network device configs (SSH), diffs changes with noise filtering, and stores them in AES-256-GCM encrypted vaults. H3C / Huawei / Cisco / Ruijie supported. [![PyPI](https://img.shields.io/pypi/v/netcfg-vault)](https://pypi.org/project/netcfg-vault/)
